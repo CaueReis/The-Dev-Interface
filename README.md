@@ -74,7 +74,8 @@ Isso criará uma pasta dist com os arquivos minificados e prontos para deploy.
 ## 🛠️ Tecnologias utilizadas
 Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
-Linguagens e pré-processadores
+### Linguagens e pré-processadores
+
 HTML5: Estruturação e semântica do site.
 
 CSS3: Estilização e design responsivo.
@@ -85,14 +86,16 @@ TypeScript: Adiciona tipagem estática ao JavaScript para maior robustez no cód
 
 Sass (SCSS): Pré-processador CSS para estilização avançada e modular.
 
-Bibliotecas e frameworks
+### Bibliotecas e frameworks
+
 Font Awesome (v4.7.0): Ícones modernos e escaláveis para o design do site.
 
 Babel (v6.26.3): Transpilação de JavaScript moderno (ES6+) para versões compatíveis com navegadores antigos.
 
 babel-preset-env (v1.6.1): Configuração do Babel para suporte a ambientes específicos.
 
-Ferramentas de build e automação
+### Ferramentas de build e automação
+
 Gulp (v4.0.2): Automação de tarefas como minificação, concatenação e transpilação.
 
 gulp-babel (v7.0.1): Integração do Babel com Gulp para transpilação de JavaScript.
@@ -111,12 +114,34 @@ gulp-watch (v5.0.1): Monitoramento de alterações em arquivos para execução a
 
 gulp-webserver (v0.9.1): Servidor local para desenvolvimento e teste do site.
 
-Controle de versão e hospedagem
+### Controle de versão e hospedagem
+
 Git: Controle de versão do projeto.
 
 GitHub: Hospedagem do repositório e colaboração.
 
-Editor de código
+### Editor de código
+
 Visual Studio Code: Editor de código utilizado para desenvolvimento.
+
+## 📸 Capturas de tela
+
+![Captura de tela 2025-03-17 215524](https://github.com/user-attachments/assets/433b90e8-27fd-43c5-98d5-1d0f17f9057e)
+![Captura de tela 2025-03-17 215702](https://github.com/user-attachments/assets/e79fde37-802c-4810-a1bd-76a1504193de)
+![Captura de tela 2025-03-17 215702](https://github.com/user-attachments/assets/7ed02f64-0c85-4ccb-a3ed-abe842b65f69)
+![Captura de tela 2025-03-17 215921](https://github.com/user-attachments/assets/fee50f90-9b7e-4b73-b110-91ccc064bd03)
+
+## 🚧 Roadmap
+Adicionar suporte a temas claros e escuros.
+
+Integrar um blog ao site.
+
+Adicionar animações com CSS e JavaScript.
+
+Integrar sistema de registro e login com o banco de dados.
+
+## ❓ FAQ
+Como alterar as cores do site?
+As cores estão definidas no arquivo styles/variables.scss. Basta modificar as variáveis de cor e recompilar o Sass.
 
 ## Feito com ❤️ por Caue Reis.
