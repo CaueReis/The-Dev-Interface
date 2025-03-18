@@ -1,0 +1,29 @@
+aside.logo {
+    display: flex;
+    flex-direction: column;
+    background-color: $cor-bg-escura;
+}
+
+aside.logo a {
+    display: flex;
+    flex-direction: row;
+    padding: 22px 15px;
+}
+
+aside.logo img {
+    display: flex;
+    box-sizing: border-box;
+    width: 25%
+}
+
+@media(max-width: $largura-sm-max) {
+    aside.logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    aside.logo img {
+        padding: 0px 15px;
+        width: $largura-barra-lateral;
+    }
+}
