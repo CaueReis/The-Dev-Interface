@@ -25,14 +25,14 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 ### Passo 1: Clone o repositório
 Abra o terminal e execute o comando abaixo para clonar o repositório:
 ```bash
-git clone https://github.com/CaueReis/site.git
+git clone https://github.com/CaueReis/Site-Pessoal-Portfolio
 ```
 
 ### Passo 2: Instale as dependências
 Navegue até a pasta do projeto e instale as dependências necessárias:
 
 ```bash
-cd site
+cd Site-Pessoal-Portfolio
 npm install
 ```
 
