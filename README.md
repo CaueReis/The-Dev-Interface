@@ -1,11 +1,11 @@
-# Site Pessoal/Portfólio
+# Site Pessoal/Portifólio
 
-Este é um site pessoal/portfólio criado para mostrar minhas habilidades, projetos e experiências. Ele foi desenvolvido com tecnologias modernas como **HTML5**, **CSS3**, **JavaScript**, **TypeScript** e **Sass**, além de utilizar ferramentas de automação como **Gulp** para otimizar o fluxo de desenvolvimento.
+Este é um site pessoal/portifólio criado para mostrar minhas habilidades, projetos e experiências. Ele foi desenvolvido com tecnologias modernas como **HTML5**, **CSS3**, **JavaScript**, **TypeScript** e **Sass**, além de utilizar ferramentas de automação como **Gulp** para otimizar o fluxo de desenvolvimento.
 
 ## 🎯 Motivo da criação
 
 Este projeto foi criado com os seguintes objetivos:
-- **Apresentar meu portfólio**: Mostrar meus projetos, habilidades e experiências de forma organizada e visualmente atraente.
+- **Apresentar meu portifólio**: Mostrar meus projetos, habilidades e experiências de forma organizada e visualmente atraente.
 - **Praticar tecnologias modernas**: Utilizar ferramentas como **TypeScript**, **Sass** e **Gulp** para aprimorar minhas habilidades em desenvolvimento web.
 - **Automatizar tarefas**: Implementar um fluxo de trabalho eficiente com **Gulp** para minificar arquivos, transpilar código e facilitar o desenvolvimento.
 - **Criar um site responsivo**: Garantir que o site funcione bem em dispositivos móveis, tablets e desktops.
@@ -25,14 +25,14 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 ### Passo 1: Clone o repositório
 Abra o terminal e execute o comando abaixo para clonar o repositório:
 ```bash
-git clone https://github.com/CaueReis/Site-Pessoal-Portfolio
+git clone https://github.com/CaueReis/Site-Pessoal-Portifólio
 ```
 
 ### Passo 2: Instale as dependências
 Navegue até a pasta do projeto e instale as dependências necessárias:
 
 ```bash
-cd Site-Pessoal-Portfolio
+cd Site-Pessoal-Portifólio
 npm install
 ```
 
